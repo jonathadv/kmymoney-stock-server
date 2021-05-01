@@ -4,7 +4,9 @@
 # vim: tabstop=4 expandtab shiftwidth=4 softtabstop=4
 
 """
-Simple Mock Server
+KMyMoney Stock Server
+
+A simple http server to be a single Online Quote Source for stock market info for KMyMoney.
 -------------------
 
 Run as a regular python script:
